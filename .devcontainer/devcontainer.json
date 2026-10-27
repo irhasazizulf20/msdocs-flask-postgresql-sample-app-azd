@@ -25,7 +25,7 @@
 						"previewLimit": 50,
 						"server": "db",
 						"port": 5432,
-						"database": "app",
+						"database": "restaurant_reviews",
 						"username": "app_user",
 						"password": "app_password"
 					}
